@@ -10,7 +10,7 @@
     "content-definitions:pull": "content-definitions pull manifest.json -s http://localhost:8081 --authority http://localhost:8081 --client-id cli --client-secret cli"
   },
   "dependencies": {
-    "@episerver/content-delivery": "./@episerver/content-delivery",
+    "@episerver/content-delivery": "file:./@episerver/content-delivery",
     "core-js": "^3.8.3",
     "lodash": "^4.17.20",
     "oidc-client-ts": "^2.0.6",
@@ -21,7 +21,7 @@
   "devDependencies": {
     "@babel/core": "^7.12.16",
     "@babel/eslint-parser": "^7.12.16",
-    "@episerver/content-definitions": "./@episerver/content-definitions",
+    "@episerver/content-definitions": "file:./@episerver/content-definitions",
     "@vue/cli-plugin-babel": "~5.0.0",
     "@vue/cli-plugin-eslint": "~5.0.0",
     "@vue/cli-plugin-router": "~5.0.0",

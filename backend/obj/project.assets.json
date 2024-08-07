@@ -10999,14 +10999,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mmarque\\source\\repos\\Martins\\asg--music-festival-vue-decoupled\\backend\\MusicFestival.Backend.csproj",
+      "projectUniqueName": "C:\\Users\\mmarque\\source\\repos\\Martins\\asg--optimizely-music-festival-vue-decoupled\\backend\\MusicFestival.Backend.csproj",
       "projectName": "MusicFestival.Backend",
-      "projectPath": "C:\\Users\\mmarque\\source\\repos\\Martins\\asg--music-festival-vue-decoupled\\backend\\MusicFestival.Backend.csproj",
+      "projectPath": "C:\\Users\\mmarque\\source\\repos\\Martins\\asg--optimizely-music-festival-vue-decoupled\\backend\\MusicFestival.Backend.csproj",
       "packagesPath": "C:\\Users\\mmarque\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mmarque\\source\\repos\\Martins\\asg--music-festival-vue-decoupled\\backend\\obj\\",
+      "outputPath": "C:\\Users\\mmarque\\source\\repos\\Martins\\asg--optimizely-music-festival-vue-decoupled\\backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mmarque\\source\\repos\\Martins\\asg--music-festival-vue-decoupled\\NuGet.Config",
+        "C:\\Users\\mmarque\\source\\repos\\Martins\\asg--optimizely-music-festival-vue-decoupled\\NuGet.Config",
         "C:\\Users\\mmarque\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

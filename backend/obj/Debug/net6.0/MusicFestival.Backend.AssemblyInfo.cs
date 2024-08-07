@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MusicFestival.Backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02bcfd198217d2aa9a7f2114f5e783a359876bb0")]
 [assembly: System.Reflection.AssemblyProductAttribute("MusicFestival.Backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MusicFestival.Backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

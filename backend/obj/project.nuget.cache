@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iKxGU+piGCknmhb+qt173dwy3Tna5XKVRl1qbPYv7z42pEltOxNUO8LdC6JI3jC8oHbaZzB6NYHQ2c7hy9QDzQ==",
+  "dgSpecHash": "BVBMRgkzfKMK36v7K4uP1jaTKHJwbczj6LFSYRteLxqmPca2S2o/WUgW9ZQN6E7iwoQOPq0bLFBOWhxOykHkQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mmarque\\source\\repos\\Martins\\asg--music-festival-vue-decoupled\\backend\\MusicFestival.Backend.csproj",
+  "projectFilePath": "C:\\Users\\mmarque\\source\\repos\\Martins\\asg--optimizely-music-festival-vue-decoupled\\backend\\MusicFestival.Backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mmarque\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\mmarque\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

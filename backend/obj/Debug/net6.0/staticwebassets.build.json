@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lZjWzi8oToDM3wd6PdIXMylR6Kou/IPCXaVNR6BZ8VM=",
+  "Hash": "6BJGImFSUBPO2EstuEbbAF2J/iSfcn5ERgp4lq/Jjmg=",
   "Source": "MusicFestival.Backend",
   "BasePath": "_content/MusicFestival.Backend",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "MusicFestival.Backend\\wwwroot",
       "Source": "MusicFestival.Backend",
-      "ContentRoot": "C:\\Users\\mmarque\\source\\repos\\Martins\\asg--optimizely-content-delivery-js-sdk\\samples\\asg--music-festival-vue-decoupled\\backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mmarque\\source\\repos\\Martins\\asg--optimizely-music-festival-vue-decoupled\\backend\\wwwroot\\",
       "BasePath": "_content/MusicFestival.Backend",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\mmarque\\source\\repos\\Martins\\asg--optimizely-content-delivery-js-sdk\\samples\\asg--music-festival-vue-decoupled\\backend\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\mmarque\\source\\repos\\Martins\\asg--optimizely-music-festival-vue-decoupled\\backend\\wwwroot\\favicon.ico",
       "SourceId": "MusicFestival.Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mmarque\\source\\repos\\Martins\\asg--optimizely-content-delivery-js-sdk\\samples\\asg--music-festival-vue-decoupled\\backend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mmarque\\source\\repos\\Martins\\asg--optimizely-music-festival-vue-decoupled\\backend\\wwwroot\\",
       "BasePath": "_content/MusicFestival.Backend",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",

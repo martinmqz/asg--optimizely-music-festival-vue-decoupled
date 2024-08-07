@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mmarque\\source\\repos\\Martins\\asg--music-festival-vue-decoupled\\frontend\\MusicFestival.Frontend.csproj": {}
+    "C:\\Users\\mmarque\\source\\repos\\Martins\\asg--optimizely-music-festival-vue-decoupled\\frontend\\MusicFestival.Frontend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mmarque\\source\\repos\\Martins\\asg--music-festival-vue-decoupled\\frontend\\MusicFestival.Frontend.csproj": {
+    "C:\\Users\\mmarque\\source\\repos\\Martins\\asg--optimizely-music-festival-vue-decoupled\\frontend\\MusicFestival.Frontend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mmarque\\source\\repos\\Martins\\asg--music-festival-vue-decoupled\\frontend\\MusicFestival.Frontend.csproj",
+        "projectUniqueName": "C:\\Users\\mmarque\\source\\repos\\Martins\\asg--optimizely-music-festival-vue-decoupled\\frontend\\MusicFestival.Frontend.csproj",
         "projectName": "MusicFestival.Frontend",
-        "projectPath": "C:\\Users\\mmarque\\source\\repos\\Martins\\asg--music-festival-vue-decoupled\\frontend\\MusicFestival.Frontend.csproj",
+        "projectPath": "C:\\Users\\mmarque\\source\\repos\\Martins\\asg--optimizely-music-festival-vue-decoupled\\frontend\\MusicFestival.Frontend.csproj",
         "packagesPath": "C:\\Users\\mmarque\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mmarque\\source\\repos\\Martins\\asg--music-festival-vue-decoupled\\frontend\\obj\\",
+        "outputPath": "C:\\Users\\mmarque\\source\\repos\\Martins\\asg--optimizely-music-festival-vue-decoupled\\frontend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mmarque\\source\\repos\\Martins\\asg--music-festival-vue-decoupled\\NuGet.Config",
+          "C:\\Users\\mmarque\\source\\repos\\Martins\\asg--optimizely-music-festival-vue-decoupled\\NuGet.Config",
           "C:\\Users\\mmarque\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
