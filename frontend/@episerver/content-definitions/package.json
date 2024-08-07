@@ -1,0 +1,38 @@
+{
+  "name": "@episerver/content-definitions",
+  "version": "2.0.0",
+  "description": "CLI tool for managing content definitions manifest files.",
+  "author": "Johan Petersson <johan.petersson@optimizely.com>",
+  "license": "Apache-2.0",
+  "keywords": [
+    "episerver",
+    "optimizely",
+    "manifest",
+    "definitions"
+  ],
+  "homepage": "https://www.optimizely.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/episerver/content-delivery-js-sdk.git"
+  },
+  "type": "module",
+  "main": "./bin/cli.mjs",
+  "bin": {
+    "content-definitions": "./bin/cli.mjs"
+  },
+  "scripts": {
+    "test": "mocha --recursive --timeout 5000 --require ./test/fixture.mjs"
+  },
+  "dependencies": {
+    "commander": "^9.4.0",
+    "openid-client": "^5.1.9"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.3.3",
+    "@types/mocha": "^9.1.1",
+    "chai": "^4.3.6",
+    "concat-stream": "^2.0.0",
+    "mocha": "^10.0.0",
+    "test-setup": "file:../test-setup"
+  }
+}

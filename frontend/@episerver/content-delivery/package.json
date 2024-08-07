@@ -1,0 +1,37 @@
+{
+  "name": "@episerver/content-delivery",
+  "version": "2.0.0",
+  "description": "SDK for the Episerver Content Delivery API.",
+  "author": "Johan Petersson <johan.petersson@optimizely.com>",
+  "license": "Apache-2.0",
+  "keywords": [
+    "episerver",
+    "optimizely",
+    "content delivery",
+    "headless",
+    "sdk",
+    "client"
+  ],
+  "homepage": "https://www.optimizely.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/episerver/content-delivery-js-sdk.git"
+  },
+  "type": "module",
+  "main": "./lib/main.mjs",
+  "types": "./lib/main.d.mts",
+  "scripts": {
+    "build": "npx tsc",
+    "watch": "npx tsc --watch",
+    "test": "mocha --recursive --timeout 5000 --require ./test/fixture.mjs"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.3.3",
+    "@types/mocha": "^9.1.1",
+    "@types/node": "^14.14.25",
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0",
+    "test-setup": "file:../test-setup",
+    "typescript": "^4.1.4"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mmarque\\source\\repos\\Martins\\asg--music-festival-vue-decoupled\\frontend\\MusicFestival.Frontend.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mmarque\\source\\repos\\Martins\\asg--music-festival-vue-decoupled\\frontend\\MusicFestival.Frontend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mmarque\\source\\repos\\Martins\\asg--music-festival-vue-decoupled\\frontend\\MusicFestival.Frontend.csproj",
+        "projectName": "MusicFestival.Frontend",
+        "projectPath": "C:\\Users\\mmarque\\source\\repos\\Martins\\asg--music-festival-vue-decoupled\\frontend\\MusicFestival.Frontend.csproj",
+        "packagesPath": "C:\\Users\\mmarque\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mmarque\\source\\repos\\Martins\\asg--music-festival-vue-decoupled\\frontend\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mmarque\\source\\repos\\Martins\\asg--music-festival-vue-decoupled\\NuGet.Config",
+          "C:\\Users\\mmarque\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.optimizely.com/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
